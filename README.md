@@ -40,7 +40,7 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 ## OUTPUT:
 
-<img width="1914" height="807" alt="image" src="https://github.com/user-attachments/assets/360143de-6693-495f-a00e-f80cc7948715" />
+<img width="1027" height="616" alt="image" src="https://github.com/user-attachments/assets/408469b5-11fd-480a-a32f-1f319a85fe2d" />
 
 
 
